@@ -10,4 +10,3 @@ Evento 365 event management system should plan and effectively manage the events
 Technologies used -
 • React JS (Front-end) • Spring Boot (Back-end)
 
-Note - The student's github account should be given in brackets e.g. (IT20212232), this ideally should be your student id
